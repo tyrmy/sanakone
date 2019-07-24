@@ -1,0 +1,8 @@
+#!/bin/bash
+
+touch temp
+tail -n +2 eng_fi.db | sort > temp
+echo "eng,fi" > eng_fi.db
+cat temp >> eng_fi.db
+rm temp
+echo "Tietokanta järjestetty!"
