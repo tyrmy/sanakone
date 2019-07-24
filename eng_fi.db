@@ -1,28 +1,28 @@
 eng,fi
-abject,abjektio
+absolve,antaa synninpäästö
 abundant,runsas
 adept,taitava
 adequate,riittäviä
 adherence,ohjelmanmukaisuus
 affluent,varallisuus
-aghast,tyrmistynytjstk
+aghast,tyrmistynyt
 alacrity,ripeys
 albeit,vaikkakin
 allegedly,ilmeisesti
-alleviate, lievittää
-amendment,muutos;lakimuutos
+alleviate,lievittää
+amendment,lakimuutos
 ample,runsas
 anoffal,sivutuotteet
 anomaly,poikkeus
-anonymous,anonyymi
-applicable, sovelletaan
+applicable,sovellettava
 ardent,kiihkeä
 arduous,vaivalloinen
 arid,kuiva
-aspire, tavoitella jtk
-assertion, väite
-attorney,asianajajat
-audition, esiintymiskoe
+aspire,tavoitella jtk
+assertion,väite
+attorney,asianajaja
+auction,Huutokauppa
+audition,esiintymiskoe
 baulk,palkki
 belittle,vähätellä
 benign,hyväntuulinen
@@ -31,14 +31,12 @@ binge,humalahakuinen
 brigadier,prkenr
 brittle,mureneva
 buzzword,muotisana
-callous,kallositeetit
-cascade, ryöpytä
-chimera,kimairat
 circumvent,kiertää
 clause,lauseke
 collate,koota
+compel,pakottaa
 complacent,omahyväinen
-compound, yhdiste
+compound,yhdiste
 congregate,kokoontua
 contraceptive,kemialliset ehkäisyvälineet
 controversial,kiistanalainen
@@ -50,43 +48,48 @@ cumbersome,hankala
 curb,hillitä
 decree,tuomioistuinratkaisu
 deficient,puutteellinen
-deliberate, tarkoituksellinen
-demographic, demografiset
+deliberate,tarkoituksellinen
 denigrate,vähätellä
 denote,ilmoittaa
 depict,kuvata
+deploy,sijoittaa
 deprecated,vanhentunut
-deprecated, vanhentunut
+deprecated,vanhentunut
 despondent,masentunut
 devout,hartaus
 diligent,ahkera
 disposition,säännös
 drove,karjalauma
+dubious,kyseenalainen
 efface,unohda
+elaborate,kehittää
 elation,riemu
 emanate,virrata
 envisage,ottaenhuomioon
 ephemeral,lyhytaikainen
 errant,hairahtunut
-erroneous, virheellinen
+erroneous,virheellinen
 excrement,uloste
-exhilarating, ilahduttava
+exhilarating,ilahduttava
 exploit,riistää
 faux pas,kompuroi
 figment,juttu
 flamboyant,mahtipontinen
+fraud,petos
 frivolous,tarpeeton tai kiusantekomielessä aiheutettu
 frown,rypistää otsaansa
 germ,alkio
 girth,ympärysmitta
 gossip,juoru
 gravy,paistinkastike
-habitual, tavanomainen
+habitual,tavanomainen
 hamper,pärekori
+haste,kiire
 hidebound,ahdasmielinen
 hitherto,tähänasti
+hoax,huijaus
 homage,kunnianosoitus
-inadvertently, vahingossa
+inadvertently,vahingossa
 incantation,loitsu
 incendiary,tuhopolttaja
 incense,suitsuke
@@ -94,14 +97,14 @@ incentive,yllyke
 incidence,ilmaantuvuus
 inconceivable,käsittämätön
 incontrovertible,kiistaton
-indiscriminately, umpimähkään
+indiscriminately,umpimähkään
 ingenuity,nerokkuus
 inlieuof,sijasta
 innate,synnynnäinen
-innocuous, harmiton
-inordinate, kohtuuton
-inquiry, tiedustelu
-invoice, lasku
+innocuous,harmiton
+inordinate,kohtuuton
+inquiry,tiedustelu
+invoice,lasku
 kudo,kaikkialla
 laurel,laakeripuu
 luminous,valoisa
@@ -110,33 +113,36 @@ meticulous,huolellinen
 mogul,moguli
 mundane,arkipäiväinen
 municipal,kunta
-nebulous, epämääräinen
+nautical,merenkulku-
+nebulous,epämääräinen
 nettle,nokkonen
-obfuscate, hämärtää
-obstruct, estää
+niche,markkinarako
+obfuscate,hämärtää
+obstruct,estää
 ominous,pahaenteinen
 opaque,peittävä
 opprobrium,häpeä
 panacea,panakeia
-paramount,paramount
 pariah,paria
 peg,tappi
 perpetuate,ikuistaa
 piety,hurskaus
 pious,hurskas
-plethora, yletön
+plethora,yletön
 precarious,epävarma
 precipitation,saostuminen
+prefix,etuliite
 prerequisite,ennakkoehto
 prestegious,arvovaltainen
 prevalent, vallitseva
-prior, ennen
+principle,periaate
+prior,ennen
 prominent,huomattava
 proprietary,patentoitu
 prosecution,syyttäjä
-qualm,savu
-query, tiedustelu
-quirky, omituinen
+qualm,epäilys
+query,tiedustelu
+quirky,omituinen
 real-estate,kiinteistöala
 recess,syvänne
 recuperate,toipua
@@ -147,8 +153,8 @@ resentment,kauna
 retail,vähittäis
 revenue,tulot
 revere,kunnioittaa syvästi
-revoke, peruuttaa
-rigor, täsmällisyys
+revoke,peruuttaa
+rigor,täsmällisyys
 salient,merkittävä
 sanctify,pyhitys
 scarce,niukkuus
@@ -157,12 +163,12 @@ scornful,halveksiva
 secular,maallinen
 serendipity,sattumalta
 skim,kuoriapinnalta
-slog, voittaa
+slog,voittaa
 sobriquet,lempinimi
 spatial,avaruus
-spoof, huijata
+spoof,huijata
 stagnant,seisova;paikallaanoleva
-steep, jyrkkä
+steep,jyrkkä
 subjugate,kukistaa
 sumptuous,ylellinen
 sweepstake,vedonlyönti
@@ -183,18 +189,9 @@ vendor,myyjä
 venue,tapahtumapaikka
 veracity,totuudenmukaisuus
 verbose,yksityiskohtaiset tiedot;puhelias
-vogue, muoti
+vogue,muoti
 voluble,sujuva
+voluntary,vapaaehtoinen
 weave,sidos
-niche,markkinarako
-nautical,merenkulku-
-deploy,sijoittaa
-elaborate,kehittää
-prefix,etuliite
-absolve,antaa synninpäästö
-compel,pakottaa
-dubious,kyseenalainen
-hoax,huijaus
-fraud,petos
-auction,Huutokauppa
-principle,periaate
+perilous,vaarallinen
+benchmark,vertailuarvo
