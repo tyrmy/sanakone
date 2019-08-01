@@ -80,6 +80,7 @@ def ask_random():
 		add_word(fix)
 		dict_from_csv()
 	elif vastaus == "exit":
+		print('Suljetaan sanakone...')
 		exit()
 	else:
 		print('Ref: "' + pick[1] + '"')
@@ -103,9 +104,15 @@ def add_word(word):
 		with open("eng_fi.db", "a") as fd:
 			tr = Translator()
 			result = tr.translate(word, dest='fi')
-			print(word + "," + result.text)
-			output = word + "," + result.text
-			fd.write(output.encode('utf-8') + "\n")
+			vastaus = raw_input(u'Ehdotus: "%s"? (k/e) ' % result.text).decode('utf-8')
+			if vastaus == 'k':
+				print(u'Lisättiin "%s,%s"' % ( word, result.text ))
+				output = word + ',' + result.text
+				fd.write(output.encode('utf-8') + "\n")
+			elif vastaus == 'e':
+				print('Keskeytettiin lisääminen...')
+			else:
+				print('Kelvoton vastaus. Perutaan...')
 	else:
 		print('Sana ei kelpaa tai se on jo tietokannassa...')
 
