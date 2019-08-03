@@ -33,20 +33,31 @@ def generate_dict():
 
 def generate_quiz(sanaa):
 	source = generate_dict()
+	picks = r.sample(list(source.items()), sanaa)
 
 	quizfile = open('quiz.txt', 'w')
 	quizfile.write('Kysely luotu ' + str(datetime.now()).split('.')[0] + '\n')
 	quizfile.write('Tietokannan laajuus on ' + str(dict_size()) + ' sanaa.\n')
+	quizfile.write('==============================\n')
 	quizfile.write('Kyselyn koko: ' + str(sanaa) + ' sanaa.\n')
 	quizfile.write('==============================\n')
 	
-	for kysymys in range(sanaa):
-		quizfile.write('\n Kysymys #' + str(kysymys+1) + ' \n')
+	index = 1
+	for kysymys in picks:
+		quizfile.write('\n %d) %s \n' % (index, kysymys[0]))
+		answers = []
+		answers.append(kysymys[1])
+		for i in range(3):
+			pick = r.sample(list(source.items()), 1)
+			fanswers = pick[0]
+			answers.append(fanswers[1])
+		r.shuffle(answers)	
 		for i in range(4):
-			quizfile.write('\t %s) jotain \n' % 'ABCD'[i])
+			answer = '\t %s) %s \n' % ('ABCD'[i], answers[i])
+			quizfile.write(answer.encode('utf-8'))
+		index += 1
 	
 	quizfile.write('\n==============================\n')
 	quizfile.write('Kyselyn loppu')
 	quizfile.write('\n==============================\n')
-generate_quiz(3)
-
+generate_quiz(35)

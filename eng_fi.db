@@ -1,4 +1,5 @@
 eng,fi
+abolish,lakkauttaa
 absolve,antaa synninpäästö
 abundant,runsas
 adept,taitava
@@ -8,6 +9,7 @@ affluent,varallisuus
 aghast,tyrmistynyt
 alacrity,ripeys
 albeit,vaikkakin
+allegation,väite
 allegedly,ilmeisesti
 alleviate,lievittää
 amendment,lakimuutos
@@ -25,6 +27,7 @@ auction,Huutokauppa
 audition,esiintymiskoe
 baulk,palkki
 belittle,vähätellä
+benchmark,vertailuarvo
 benign,hyväntuulinen
 bias,puolueellisuus
 binge,humalahakuinen
@@ -38,8 +41,10 @@ compel,pakottaa
 complacent,omahyväinen
 compound,yhdiste
 congregate,kokoontua
+conjecture,otaksuma
 contraceptive,kemialliset ehkäisyvälineet
 controversial,kiistanalainen
+convict,tuomittu
 convoluted,mutkikas
 coroner,oikeuslääkäri
 counterfeit,väärentää
@@ -51,6 +56,7 @@ deficient,puutteellinen
 deliberate,tarkoituksellinen
 denigrate,vähätellä
 denote,ilmoittaa
+department,osasto
 depict,kuvata
 deploy,sijoittaa
 deprecated,vanhentunut
@@ -67,6 +73,7 @@ elation,riemu
 emanate,virrata
 envisage,ottaenhuomioon
 ephemeral,lyhytaikainen
+epiphany,loppiainen
 errant,hairahtunut
 erroneous,virheellinen
 excrement,uloste
@@ -75,6 +82,7 @@ exploit,riistää
 faux pas,kompuroi
 figment,juttu
 flamboyant,mahtipontinen
+forgery,väärentäminen
 fraud,petos
 frivolous,tarpeeton tai kiusantekomielessä aiheutettu
 frown,rypistää otsaansa
@@ -97,12 +105,14 @@ incentive,yllyke
 incidence,ilmaantuvuus
 inconceivable,käsittämätön
 incontrovertible,kiistaton
+incriminate,moitittujen
 indiscriminately,umpimähkään
 ingenuity,nerokkuus
 inlieuof,sijasta
 innate,synnynnäinen
 innocuous,harmiton
 inordinate,kohtuuton
+inquire,tiedustella
 inquiry,tiedustelu
 invoice,lasku
 kudo,kaikkialla
@@ -125,9 +135,12 @@ opprobrium,häpeä
 panacea,panakeia
 pariah,paria
 peg,tappi
+perilous,vaarallinen
+perpetrator,rikoksentekijä
 perpetuate,ikuistaa
 piety,hurskaus
 pious,hurskas
+plea,vetoomus
 plethora,yletön
 precarious,epävarma
 precipitation,saostuminen
@@ -163,6 +176,7 @@ scornful,halveksiva
 secular,maallinen
 serendipity,sattumalta
 skim,kuoriapinnalta
+slander,herjata
 slog,voittaa
 sobriquet,lempinimi
 spatial,avaruus
@@ -193,19 +207,5 @@ vogue,muoti
 voluble,sujuva
 voluntary,vapaaehtoinen
 weave,sidos
-perilous,vaarallinen
-benchmark,vertailuarvo
-conjecture,otaksuma
-forgery,väärentäminen
-convict,tuomittu
-department,osasto
-plea,vetoomus
-incriminate,moitittujen
-abolish,lakkauttaa
-allegation,väite
-slander,herjata
-inquire,tiedustella
 zeal,into
 zealous,innokas
-perpetrator,rikoksentekijä
-epiphany,loppiainen
