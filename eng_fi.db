@@ -36,6 +36,7 @@ brittle,mureneva
 buzzword,muotisana
 circumvent,kiertää
 clause,lauseke
+clutch,kytkin
 collate,koota
 compel,pakottaa
 complacent,omahyväinen
@@ -76,8 +77,10 @@ ephemeral,lyhytaikainen
 epiphany,loppiainen
 errant,hairahtunut
 erroneous,virheellinen
+exasperated,ärsyyntyneenä
 excrement,uloste
 exhilarating,ilahduttava
+expertise,asiantuntemus
 exploit,riistää
 faux pas,kompuroi
 figment,juttu
@@ -90,6 +93,8 @@ germ,alkio
 girth,ympärysmitta
 gossip,juoru
 gravy,paistinkastike
+guise,valepuku
+gullibility,hyväuskoisuus
 habitual,tavanomainen
 hamper,pärekori
 haste,kiire
@@ -103,10 +108,14 @@ incendiary,tuhopolttaja
 incense,suitsuke
 incentive,yllyke
 incidence,ilmaantuvuus
+incompatible,yhteensopimaton
 inconceivable,käsittämätön
 incontrovertible,kiistaton
 incriminate,moitittujen
 indiscriminately,umpimähkään
+inept,taitamaton
+inference,päättely
+infer,tehdä johtopäätös
 ingenuity,nerokkuus
 inlieuof,sijasta
 innate,synnynnäinen
@@ -134,6 +143,7 @@ opaque,peittävä
 opprobrium,häpeä
 panacea,panakeia
 pariah,paria
+partisan,puolueellinen
 peg,tappi
 perilous,vaarallinen
 perpetrator,rikoksentekijä
@@ -142,6 +152,7 @@ piety,hurskaus
 pious,hurskas
 plea,vetoomus
 plethora,yletön
+ploy,juoni
 precarious,epävarma
 precipitation,saostuminen
 prefix,etuliite
@@ -181,10 +192,13 @@ slog,voittaa
 sobriquet,lempinimi
 spatial,avaruus
 spoof,huijata
+spurious,väärä
 stagnant,seisova;paikallaanoleva
 steep,jyrkkä
 subjugate,kukistaa
+suggestible,herkkä
 sumptuous,ylellinen
+susceptible,herkkä
 sweepstake,vedonlyönti
 syndicate,asiantuntijaryhmä
 tedious,tylsä
@@ -203,6 +217,7 @@ vendor,myyjä
 venue,tapahtumapaikka
 veracity,totuudenmukaisuus
 verbose,yksityiskohtaiset tiedot;puhelias
+vigilance,valppaus
 vogue,muoti
 voluble,sujuva
 voluntary,vapaaehtoinen

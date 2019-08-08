@@ -20,6 +20,7 @@ import os
 import unicodecsv as csv
 import time as t
 import random as r
+import sys
 from googletrans import Translator
 
 os.chdir('/home/lassi/Python/sanakone1.1/')
@@ -104,7 +105,8 @@ def add_word(word):
 		with open("eng_fi.db", "a") as fd:
 			tr = Translator()
 			result = tr.translate(word, dest='fi')
-			vastaus = raw_input(u'Ehdotus: "%s"? (k/e/v) ' % result.text).decode('utf-8')
+			ehdotus = u'Ehdotus: "%s"? (k/e/v)' % result.text
+			vastaus = raw_input(ehdotus.encode(sys.stdout.encoding)).decode('utf-8')
 			if vastaus == 'k':
 				print(u'Lisättiin "%s,%s"' % ( word, result.text ))
 				output = word + ',' + result.text

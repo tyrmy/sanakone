@@ -11,6 +11,7 @@ import time as t
 import random as r
 
 os.chdir('/home/lassi/Python/sanakone1.1/')
+filename = 'quiz_%s.txt' % str(datetime.now()).split('.')[0]
 
 # Ilmoittaa csv-tiedoston sanojen määrän
 def dict_size():
@@ -35,7 +36,7 @@ def generate_quiz(sanaa):
 	source = generate_dict()
 	picks = r.sample(list(source.items()), sanaa)
 
-	quizfile = open('quiz.txt', 'w')
+	quizfile = open(filename, 'w')
 	quizfile.write('Kysely luotu ' + str(datetime.now()).split('.')[0] + '\n')
 	quizfile.write('Tietokannan laajuus on ' + str(dict_size()) + ' sanaa.\n')
 	quizfile.write('==============================\n')
@@ -60,4 +61,4 @@ def generate_quiz(sanaa):
 	quizfile.write('\n==============================\n')
 	quizfile.write('Kyselyn loppu')
 	quizfile.write('\n==============================\n')
-generate_quiz(35)
+generate_quiz(40)
