@@ -1,0 +1,249 @@
+Kysely luotu 2019-08-11 01:57:33
+Tietokannan laajuus on 234 sanaa.
+==============================
+Kyselyn koko: 40 sanaa.
+==============================
+
+ 1) denigrate 
+	 A) muoti 
+	 B) kaikkialla läsnäoleva 
+	 C) myyjä 
+	 D) vähätellä 
+
+ 2) deliberate 
+	 A) totuudenmukaisuus 
+	 B) ahkera 
+	 C) tarkoituksellinen 
+	 D) seisova;paikallaanoleva 
+
+ 3) vogue 
+	 A) muoti 
+	 B)  kankea 
+	 C) oikeuslääkäri 
+	 D) oikeuslääkäri 
+
+ 4) gossip 
+	 A) juoru 
+	 B) lyhytaikainen 
+	 C) puolueellisuus 
+	 D) mureneva 
+
+ 5) alacrity 
+	 A) hankala 
+	 B) halveksiva 
+	 C) panakeia 
+	 D) ripeys 
+
+ 6) elaborate 
+	 A) räikeä 
+	 B) esiintymiskoe 
+	 C) lakkauttaa 
+	 D) kehittää 
+
+ 7) incendiary 
+	 A) tuhopolttaja 
+	 B) tarkastelu 
+	 C) kohtuuton 
+	 D) käsittämätön 
+
+ 8) deprecated 
+	 A) suitsuke 
+	 B) antaa synninpäästö 
+	 C) asianajaja 
+	 D) vanhentunut 
+
+ 9) incompatible 
+	 A) ottaenhuomioon 
+	 B) kyseenalainen 
+	 C) sattumalta 
+	 D) yhteensopimaton 
+
+ 10) ploy 
+	 A) halveksiva 
+	 B) juoni 
+	 C) riemu 
+	 D) puutteellinen 
+
+ 11) tuition 
+	 A) vähittäis 
+	 B) tiedustelu 
+	 C) lukukausimaksu 
+	 D) riistää 
+
+ 12) complacent 
+	 A) hallitus 
+	 B) kaikkialla läsnäoleva 
+	 C) kemialliset ehkäisyvälineet 
+	 D) omahyväinen 
+
+ 13) adequate 
+	 A) riittäviä 
+	 B) tuomioistuinratkaisu 
+	 C) tähänasti 
+	 D) tyrmistynyt 
+
+ 14) spoof 
+	 A) huijata 
+	 B) ottaenhuomioon 
+	 C) tarpeeton tai kiusantekomielessä aiheutettu 
+	 D) riittäviä 
+
+ 15) inquiry 
+	 A) lievittää 
+	 B) humalahakuinen 
+	 C) palkki 
+	 D) tiedustelu 
+
+ 16) affluent 
+	 A) poikkeus 
+	 B) pidättäytyä 
+	 C) varallisuus 
+	 D) saostuminen 
+
+ 17) blatant 
+	 A) lasku 
+	 B) päättely 
+	 C) puutteellinen 
+	 D) räikeä 
+
+ 18) incentive 
+	 A) yletön 
+	 B) periaate 
+	 C) yllyke 
+	 D) herkkä 
+
+ 19) dubious 
+	 A) kyseenalainen 
+	 B) huomattava 
+	 C) pakottaa 
+	 D) kemialliset ehkäisyvälineet 
+
+ 20) benign 
+	 A) hyväntuulinen 
+	 B) moguli 
+	 C) tiedustelu 
+	 D) vaivalloinen 
+
+ 21) zeal 
+	 A) into 
+	 B) hillitä 
+	 C) kuivattu luumu 
+	 D) ylellinen 
+
+ 22) venue 
+	 A) tapahtumapaikka 
+	 B) syyttäjä 
+	 C) sidos 
+	 D) pakottaa 
+
+ 23) convoluted 
+	 A) mutkikas 
+	 B) petos 
+	 C) hurskas 
+	 D) kiistanalainen 
+
+ 24) efface 
+	 A) unohda 
+	 B) niukkuus 
+	 C) syöksyhammas 
+	 D) synnynnäinen 
+
+ 25) inlieuof 
+	 A) vetoomus 
+	 B) sijasta 
+	 C) uloste 
+	 D) mahtipontinen 
+
+ 26) depict 
+	 A) avaruus 
+	 B) seisova;paikallaanoleva 
+	 C) arkipäiväinen 
+	 D) kuvata 
+
+ 27) forgery 
+	 A) poikkeus 
+	 B) sovellettava 
+	 C) väärentäminen 
+	 D) omahyväinen 
+
+ 28) audition 
+	 A) ahkera 
+	 B) pidättäytyä 
+	 C) esiintymiskoe 
+	 D) totuudenmukaisuus 
+
+ 29) habitual 
+	 A) varallisuus 
+	 B) totuudenmukaisuus 
+	 C) tavanomainen 
+	 D) runsas 
+
+ 30) prestegious 
+	 A) kokoontua 
+	 B) arvovaltainen 
+	 C) herjata 
+	 D) hankala 
+
+ 31) anoffal 
+	 A) asiantuntemus 
+	 B) huijata 
+	 C) sivutuotteet 
+	 D) peittävä 
+
+ 32) piety 
+	 A) hurskaus 
+	 B) vaarallinen 
+	 C) kyseenalainen 
+	 D) kukistaa 
+
+ 33) plethora 
+	 A) ikuistaa 
+	 B) hillitä 
+	 C) vaivalloinen 
+	 D) yletön 
+
+ 34) prior 
+	 A) alkio 
+	 B) ennen 
+	 C) seisova;paikallaanoleva 
+	 D) mutkikas 
+
+ 35) innate 
+	 A) vähittäis 
+	 B) ilmoittaa 
+	 C) synnynnäinen 
+	 D) hyväuskoisuus 
+
+ 36) amendment 
+	 A) lakimuutos 
+	 B) puolueellisuus 
+	 C) rikoksentekijä 
+	 D) merkittävä 
+
+ 37) voluble 
+	 A) niukkuus 
+	 B) tavoitella jtk 
+	 C) maallinen 
+	 D) sujuva 
+
+ 38) meekly 
+	 A) karjalauma 
+	 B) merkittävä 
+	 C) kunta 
+	 D) nöyrästi 
+
+ 39) resentment 
+	 A) herkkä 
+	 B) taitava 
+	 C) vertailuarvo 
+	 D) kauna 
+
+ 40) girth 
+	 A) kiire 
+	 B) ympärysmitta 
+	 C) syyttäjä 
+	 D) nerokkuus 
+
+==============================
+Kyselyn loppu
+==============================

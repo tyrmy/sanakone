@@ -11,7 +11,7 @@ import time as t
 import random as r
 
 os.chdir('/home/lassi/Python/sanakone1.1/')
-filename = 'quiz_%s.txt' % str(datetime.now()).split('.')[0]
+filename = './quizes/quiz_%s.txt' % str(datetime.now()).split('.')[0]
 
 # Ilmoittaa csv-tiedoston sanojen määrän
 def dict_size():
