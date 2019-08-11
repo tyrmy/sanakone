@@ -1,0 +1,284 @@
+[A] 
+abolish - lakkauttaa 
+absolve - antaa synninpäästö 
+abundant - runsas 
+abysmal - pohjaton 
+adept - taitava 
+adequate - riittäviä 
+adherence - ohjelmanmukaisuus 
+affluent - varallisuus 
+aghast - tyrmistynyt 
+alacrity - ripeys 
+albeit - vaikkakin 
+allegation - väite 
+allegedly - ilmeisesti 
+alleviate - lievittää 
+amendment - lakimuutos 
+ample - runsas 
+anoffal - sivutuotteet 
+anomaly - poikkeus 
+applicable - sovellettava 
+ardent - kiihkeä 
+arduous - vaivalloinen 
+arid - kuiva 
+aspire - tavoitella jtk 
+assertion - väite 
+attorney - asianajaja 
+auction - Huutokauppa 
+audition - esiintymiskoe 
+
+[B] 
+baulk - palkki 
+belittle - vähätellä 
+benchmark - vertailuarvo 
+benign - hyväntuulinen 
+bias - puolueellisuus 
+binge - humalahakuinen 
+blatant - räikeä 
+brigadier - prkenr 
+brittle - mureneva 
+buzzword - muotisana 
+
+[C] 
+circumvent - kiertää 
+clause - lauseke 
+clutch - kytkin 
+collate - koota 
+compel - pakottaa 
+complacent - omahyväinen 
+compound - yhdiste 
+congregate - kokoontua 
+conjecture - otaksuma 
+contraceptive - kemialliset ehkäisyvälineet 
+controversial - kiistanalainen 
+convict - tuomittu 
+convoluted - mutkikas 
+coroner - oikeuslääkäri 
+counterfeit - väärentää 
+credo - uskontunnustus 
+cumbersome - hankala 
+curb - hillitä 
+
+[D] 
+decree - tuomioistuinratkaisu 
+deficient - puutteellinen 
+deliberate - tarkoituksellinen 
+denigrate - vähätellä 
+denote - ilmoittaa 
+department - osasto 
+depict - kuvata 
+deploy - sijoittaa 
+deprecated - vanhentunut 
+despondent - masentunut 
+devout - hartaus 
+diligent - ahkera 
+disposition - säännös 
+drifter - tyhjäntoimittaja 
+drove - karjalauma 
+dubious - kyseenalainen 
+
+[E] 
+efface - unohda 
+elaborate - kehittää 
+elation - riemu 
+emanate - virrata 
+envisage - ottaenhuomioon 
+ephemeral - lyhytaikainen 
+epiphany - loppiainen 
+errant - hairahtunut 
+erroneous - virheellinen 
+exasperated - ärsyyntyneenä 
+excrement - uloste 
+exhilarating - ilahduttava 
+expertise - asiantuntemus 
+exploit - riistää 
+
+[F] 
+faux pas - kompuroi 
+figment - juttu 
+flamboyant - mahtipontinen 
+forgery - väärentäminen 
+fraud - petos 
+frivolous - tarpeeton tai kiusantekomielessä aiheutettu 
+frown - rypistää otsaansa 
+
+[G] 
+germ - alkio 
+girth - ympärysmitta 
+gossip - juoru 
+gravy - paistinkastike 
+guise - valepuku 
+gullibility - hyväuskoisuus 
+
+[H] 
+habitual - tavanomainen 
+hamper - pärekori 
+haste - kiire 
+hidebound - ahdasmielinen 
+hitherto - tähänasti 
+hoax - huijaus 
+homage - kunnianosoitus 
+
+[I] 
+inadvertently - vahingossa 
+incantation - loitsu 
+incendiary - tuhopolttaja 
+incense - suitsuke 
+incentive - yllyke 
+incidence - ilmaantuvuus 
+incompatible - yhteensopimaton 
+inconceivable - käsittämätön 
+incontrovertible - kiistaton 
+incriminate - moitittujen 
+indiscriminately - umpimähkään 
+inept - taitamaton 
+infer - tehdä johtopäätös 
+inference - päättely 
+ingenuity - nerokkuus 
+inlieuof - sijasta 
+innate - synnynnäinen 
+innocuous - harmiton 
+inordinate - kohtuuton 
+inquire - tiedustella 
+inquiry - tiedustelu 
+invoice - lasku 
+
+[J] 
+
+[K] 
+kudo - kaikkialla 
+
+[L] 
+laurel - laakeripuu 
+luminous - valoisa 
+
+[M] 
+meekly - nöyrästi 
+meticulous - huolellinen 
+mogul - moguli 
+mundane - arkipäiväinen 
+municipal - kunta 
+
+[N] 
+nautical - merenkulku- 
+nebulous - epämääräinen 
+nettle - nokkonen 
+niche - markkinarako 
+
+[O] 
+obfuscate - hämärtää 
+obstruct - estää 
+ominous - pahaenteinen 
+opaque - peittävä 
+opprobrium - häpeä 
+
+[P] 
+panacea - panakeia 
+pariah - paria 
+partisan - puolueellinen 
+peg - tappi 
+perilous - vaarallinen 
+perpetrator - rikoksentekijä 
+perpetuate - ikuistaa 
+piety - hurskaus 
+pious - hurskas 
+plea - vetoomus 
+plethora - yletön 
+ploy - juoni 
+precarious - epävarma 
+precipitation - saostuminen 
+preface - esipuhe 
+prefix - etuliite 
+preliminary - alustava 
+prerequisite - ennakkoehto 
+prestegious - arvovaltainen 
+prevalent -  vallitseva 
+principle - periaate 
+prior - ennen 
+prominent - huomattava 
+proprietary - patentoitu 
+prosecution - syyttäjä 
+prune - kuivattu luumu 
+
+[Q] 
+qualm - epäilys 
+query - tiedustelu 
+quirky - omituinen 
+
+[R] 
+real-estate - kiinteistöala 
+recess - syvänne 
+recuperate - toipua 
+refrain - pidättäytyä 
+regime - hallitus 
+remuneration -  korvaus 
+rescind - kumota 
+resentment - kauna 
+retail - vähittäis 
+revenue - tulot 
+revere - kunnioittaa syvästi 
+revoke - peruuttaa 
+rigor - täsmällisyys 
+
+[S] 
+salient - merkittävä 
+sanctify - pyhitys 
+scarce - niukkuus 
+scarcity - niukkuus 
+scornful - halveksiva 
+scrunity - tarkastelu 
+secular - maallinen 
+serendipity - sattumalta 
+skim - kuoriapinnalta 
+slander - herjata 
+slog - voittaa 
+sobriquet - lempinimi 
+spatial - avaruus 
+spoof - huijata 
+spurious - väärä 
+stagnant - seisova;paikallaanoleva 
+steep - jyrkkä 
+subjugate - kukistaa 
+suggestible - herkkä 
+sumptuous - ylellinen 
+susceptible - herkkä 
+sweepstake - vedonlyönti 
+syndicate - asiantuntijaryhmä 
+
+[T] 
+tedious - tylsä 
+tinker - näpertely 
+trajectory - liikerata 
+tranquillity - hiljainen 
+tuition - lukukausimaksu 
+turmoil - kuohunta 
+tusk - syöksyhammas 
+tycoon - pohatta 
+
+[U] 
+ubiquitous - kaikkialla läsnäoleva 
+unwieldy -  kankea 
+upheaval - mullistus 
+
+[V] 
+vehemently - kiivaasti 
+vendor - myyjä 
+venue - tapahtumapaikka 
+veracity - totuudenmukaisuus 
+verbose - yksityiskohtaiset tiedot;puhelias 
+vigilance - valppaus 
+vogue - muoti 
+voluble - sujuva 
+voluntary - vapaaehtoinen 
+
+[W] 
+weave - sidos 
+
+[X] 
+
+[Y] 
+
+[Z] 
+zeal - into 
+zealous - innokas 
+
