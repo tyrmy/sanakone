@@ -28,6 +28,7 @@ def dict_size():
 # Luo dictionary kohteen csv-tiedostosta.
 def generate_dict(): 
 	global dictionary
+	dictionary = {}
 	with open('eng_fi.db') as csv_file:
 		csv_reader = csv.reader(csv_file, delimiter=',')
 		next(csv_reader)
