@@ -23,6 +23,18 @@ import random as r
 import sys
 from googletrans import Translator
 
+info = """
+Käyttö:
+-r	satunnainen kysely
+-k	ohjelman sisäinen kysely
+-s	tulosta sanasto terminaaliin
+"""
+# Tulosta ohjeet jossei parametreja
+if ( len(sys.argv) == 1 ):
+	print sys.argv[0]
+	print info
+	exit()
+
 os.chdir('/home/lassi/Python/sanakone1.1/')
 dictionary = {}
 
@@ -123,10 +135,25 @@ def add_word(word):
 	else:
 		print('Sana ei kelpaa tai se on jo tietokannassa...')
 
-dict_from_csv()
-#for letter in list(string.ascii_lowercase):
-#	print_by_letter(letter)
-while True:
-	ask_random()
+# Tulosta ohje jos enemmän kuin yksi argumentti
+if ( len(sys.argv) > 2 ):
+	print('Anna vain yksi argumentti')
+	print(info)
+	exit()
+else:
+	dict_from_csv()
+	if ( sys.argv[1] == '-r' ):
+		while True:
+			ask_random()
+	elif ( sys.argv[1] == '-s' ):
+		for letter in list(string.ascii_lowercase):
+			print_by_letter(letter)
+		exit()
+	elif ( sys.argv[1] == '-k' ):
+		ask_randoms(20)		
+		exit()
 
-#ask_randoms(20)
+	else:
+		print('Tuntematon parametri!')
+		print(info)
+		exit()

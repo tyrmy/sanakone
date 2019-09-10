@@ -1,0 +1,249 @@
+Kysely luotu 2019-08-12 10:51:18
+Tietokannan laajuus on 236 sanaa.
+==============================
+Kyselyn koko: 40 sanaa.
+==============================
+
+ 1) coroner 
+	 A) oikeuslääkäri 
+	 B) juttu 
+	 C)  vallitseva 
+	 D) kuvata 
+
+ 2) venue 
+	 A) innokas 
+	 B) tavanomainen 
+	 C) peittävä 
+	 D) tapahtumapaikka 
+
+ 3) partisan 
+	 A) puolueellinen 
+	 B) avaruus 
+	 C) tarpeeton tai kiusantekomielessä aiheutettu 
+	 D) kuivattu luumu 
+
+ 4) abolish 
+	 A) asiantuntemus 
+	 B) lakkauttaa 
+	 C) vaikkakin 
+	 D) säännös 
+
+ 5) zeal 
+	 A) puolueellinen 
+	 B) into 
+	 C) virheellinen 
+	 D) virheellinen 
+
+ 6) attorney 
+	 A) periaate 
+	 B) mureneva 
+	 C) asianajaja 
+	 D) lakkauttaa 
+
+ 7) inordinate 
+	 A) kohtuuton 
+	 B) panakeia 
+	 C) puolueellisuus 
+	 D) herkkä 
+
+ 8) rescind 
+	 A) nerokkuus 
+	 B) kumota 
+	 C) tarkoituksellinen 
+	 D) koota 
+
+ 9) real-estate 
+	 A) etuliite 
+	 B) arkipäiväinen 
+	 C) vapaaehtoinen 
+	 D) kiinteistöala 
+
+ 10) nettle 
+	 A) herjata 
+	 B) valoisa 
+	 C) ilmaantuvuus 
+	 D) nokkonen 
+
+ 11) hitherto 
+	 A) paria 
+	 B) kiertää 
+	 C) tähänasti 
+	 D) pidättäytyä 
+
+ 12) precarious 
+	 A) säännös 
+	 B) hurskas 
+	 C) saostuminen 
+	 D) epävarma 
+
+ 13) ample 
+	 A) tavanomainen 
+	 B) huijata 
+	 C) runsas 
+	 D) kunnioittaa syvästi 
+
+ 14) albeit 
+	 A) pohatta 
+	 B) kehittää 
+	 C) rypistää otsaansa 
+	 D) vaikkakin 
+
+ 15) amendment 
+	 A) lakimuutos 
+	 B) suitsuke 
+	 C) yhdiste 
+	 D) kuiva 
+
+ 16) hidebound 
+	 A) loitsu 
+	 B) seisova;paikallaanoleva 
+	 C) ahdasmielinen 
+	 D) omahyväinen 
+
+ 17) forgery 
+	 A) ärsyyntyneenä 
+	 B) väärentäminen 
+	 C) rikoksentekijä 
+	 D) uskontunnustus 
+
+ 18) erroneous 
+	 A) vaikkakin 
+	 B) syvänne 
+	 C) ohjelmanmukaisuus 
+	 D) virheellinen 
+
+ 19) meticulous 
+	 A) päättely 
+	 B) huolellinen 
+	 C) kiivaasti 
+	 D) moguli 
+
+ 20) controversial 
+	 A) liikerata 
+	 B) panakeia 
+	 C) taitava 
+	 D) kiistanalainen 
+
+ 21) tedious 
+	 A) tylsä 
+	 B) nokkonen 
+	 C) arkipäiväinen 
+	 D) merenkulku- 
+
+ 22) buzzword 
+	 A) syvänne 
+	 B) lyhytaikainen 
+	 C) lyhytaikainen 
+	 D) muotisana 
+
+ 23) despondent 
+	 A) epäilys 
+	 B) masentunut 
+	 C) sivutuotteet 
+	 D) petos 
+
+ 24) luminous 
+	 A) valoisa 
+	 B)  vallitseva 
+	 C) täsmällisyys 
+	 D) mullistus 
+
+ 25) voluntary 
+	 A) merenkulku- 
+	 B) syvänne 
+	 C) runsas 
+	 D) vapaaehtoinen 
+
+ 26) incense 
+	 A) suitsuke 
+	 B) kuoriapinnalta 
+	 C) mahtipontinen 
+	 D) esiintymiskoe 
+
+ 27) diligent 
+	 A) juoni 
+	 B) ennen 
+	 C) ahkera 
+	 D) riemu 
+
+ 28) applicable 
+	 A) lauseke 
+	 B) hankala 
+	 C) kytkin 
+	 D) sovellettava 
+
+ 29) ingenuity 
+	 A) into 
+	 B) ärsyyntyneenä 
+	 C) ohjelmanmukaisuus 
+	 D) nerokkuus 
+
+ 30) nebulous 
+	 A) ilmaantuvuus 
+	 B) epämääräinen 
+	 C) kytkin 
+	 D) asiantuntijaryhmä 
+
+ 31) allegedly 
+	 A) ilmeisesti 
+	 B) saostuminen 
+	 C) kompuroi 
+	 D) mahtipontinen 
+
+ 32) benign 
+	 A) virrata 
+	 B) peittävä 
+	 C) syvänne 
+	 D) hyväntuulinen 
+
+ 33) conjecture 
+	 A) kemialliset ehkäisyvälineet 
+	 B) otaksuma 
+	 C) niukkuus 
+	 D) närhi 
+
+ 34) dubious 
+	 A) loitsu 
+	 B) kyseenalainen 
+	 C) patentoitu 
+	 D) taitamaton 
+
+ 35) incendiary 
+	 A) rikoksentekijä 
+	 B) tähänasti 
+	 C) tavanomainen 
+	 D) tuhopolttaja 
+
+ 36) girth 
+	 A) hairahtunut 
+	 B) kunnioittaa syvästi 
+	 C) ympärysmitta 
+	 D) kiire 
+
+ 37) frivolous 
+	 A) herkkä 
+	 B) tarpeeton tai kiusantekomielessä aiheutettu 
+	 C) taitamaton 
+	 D) yletön 
+
+ 38) recuperate 
+	 A) kaikkialla läsnäoleva 
+	 B) lyhytaikainen 
+	 C)  vallitseva 
+	 D) toipua 
+
+ 39) guise 
+	 A) estää 
+	 B) valepuku 
+	 C) kumota 
+	 D) yksityiskohtaiset tiedot;puhelias 
+
+ 40) scornful 
+	 A) uskontunnustus 
+	 B) taitamaton 
+	 C) ilmaantuvuus 
+	 D) halveksiva 
+
+==============================
+Kyselyn loppu
+==============================
