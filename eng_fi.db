@@ -5,7 +5,7 @@ abundant,runsas
 abysmal,pohjaton
 adept,taitava
 adequate,riittäviä
-adherence,ohjelmanmukaisuus
+adherence,kiinnittyminen
 affluent,varallisuus
 aghast,tyrmistynyt
 alacrity,ripeys
@@ -14,10 +14,12 @@ allegation,väite
 allegedly,ilmeisesti
 alleviate,lievittää
 amendment,lakimuutos
+amid,keskellä
 ample,runsas
 anoffal,sivutuotteet
 anomaly,poikkeus
 applicable,sovellettava
+aptitude,soveltuvuus
 apt,osuva
 ardent,kiihkeä
 arduous,vaivalloinen
@@ -34,9 +36,14 @@ benign,hyväntuulinen
 bias,puolueellisuus
 binge,humalahakuinen
 blatant,räikeä
+bonanza,kultakaivos
 brigadier,prkenr
 brittle,mureneva
+broker,välittäjä
 buzzword,muotisana
+camaraderie,toveruus
+cesspit,likakaivo
+charitable,hyväntekeväisyys-
 circumvent,kiertää
 clause,lauseke
 clutch,kytkin
@@ -44,6 +51,7 @@ collate,koota
 compel,pakottaa
 complacent,omahyväinen
 compound,yhdiste
+concurrency,samanaikaisuus
 congregate,kokoontua
 conjecture,otaksuma
 contraceptive,kemialliset ehkäisyvälineet
@@ -71,13 +79,16 @@ despondent,masentunut
 devout,hartaus
 diligent,ahkera
 disposition,säännös
+dissertation,väitöskirja
 drifter,tyhjäntoimittaja
 drove,karjalauma
 dubious,kyseenalainen
 efface,unohda
 elaborate,kehittää
 elation,riemu
+elicit,saada
 emanate,virrata
+endeavour,yrittää
 envisage,ottaenhuomioon
 ephemeral,lyhytaikainen
 epiphany,loppiainen
@@ -87,7 +98,9 @@ exasperated,ärsyyntyneenä
 excrement,uloste
 exhilarating,ilahduttava
 expertise,asiantuntemus
+explicit,täsmällinen
 exploit,riistää
+far cry,kaukana
 faux pas,kompuroi
 figment,juttu
 flamboyant,mahtipontinen
@@ -105,17 +118,20 @@ guise,valepuku
 gullibility,hyväuskoisuus
 habitual,tavanomainen
 hamper,pärekori
+harness,valjaat
 haste,kiire
 hidebound,ahdasmielinen
 hitherto,tähänasti
 hoax,huijaus
 homage,kunnianosoitus
+imminent,lähestyvä
 inadvertently,vahingossa
 incantation,loitsu
 incendiary,tuhopolttaja
 incense,suitsuke
 incentive,yllyke
 incidence,ilmaantuvuus
+inclination,kaltevuus
 incompatible,yhteensopimaton
 inconceivable,käsittämätön
 incontrovertible,kiistaton
@@ -126,22 +142,26 @@ inference,päättely
 infer,tehdä johtopäätös
 ingenuity,nerokkuus
 inlieuof,sijasta
+inmate,vanki
 innate,synnynnäinen
 innocuous,harmiton
 inordinate,kohtuuton
 inquire,tiedustella
 inquiry,tiedustelu
 invoice,lasku
+itinerant,kiertävä
 jay,närhi
 kudo,kaikkialla
 laurel,laakeripuu
 lavender,laventeli
+lucrative,tuottoisa
 luminous,valoisa
 mason,muurari
 meekly,nöyrästi
 meticulous,huolellinen
 mogul,moguli
 morbid,sairaalloinen
+mortgage,kiinnitys
 mundane,arkipäiväinen
 municipal,kunta
 nautical,merenkulku-
@@ -153,11 +173,13 @@ obstruct,estää
 ominous,pahaenteinen
 opaque,peittävä
 opprobrium,häpeä
+palpable,selvä
 panacea,panakeia
 pariah,paria
 partisan,puolueellinen
 peg,tappi
 perilous,vaarallinen
+pernicious,turmiollinen
 perpetrator,rikoksentekijä
 perpetuate,ikuistaa
 piety,hurskaus
@@ -165,35 +187,46 @@ pious,hurskas
 plea,vetoomus
 plethora,yletön
 ploy,juoni
+poignancy,katkeruus
 precarious,epävarma
 precipitation,saostuminen
 preface,esipuhe
 prefix,etuliite
 preliminary,alustava
+premonition,aavistus
 prerequisite,ennakkoehto
 prestegious,arvovaltainen
+prestigious,arvovaltainen
 prevalent, vallitseva
 principle,periaate
 prior,ennen
+prohibit,kieltää
 prominent,huomattava
 proprietary,patentoitu
 prosecution,syyttäjä
+prudent,varovainen
 prune,kuivattu luumu
 qualm,epäilys
 query,tiedustelu
+quintessential,pohjimmainen
 quirky,omituinen
+quotient,osamäärä
+ratchet,räikkä
 real-estate,kiinteistöala
 recess,syvänne
+recidivism,uusintarikollisuus
 recuperate,toipua
 refrain,pidättäytyä
 regime,hallitus
 remuneration, korvaus
 rescind,kumota
 resentment,kauna
+respectively,vastaavasti
 retail,vähittäis
 revenue,tulot
 revere,kunnioittaa syvästi
 revoke,peruuttaa
+rigorous,tiukka
 rigor,täsmällisyys
 salient,merkittävä
 sanctify,pyhitys
@@ -207,11 +240,15 @@ skim,kuoriapinnalta
 slander,herjata
 slog,voittaa
 sobriquet,lempinimi
+sordid,ikävä
 spatial,avaruus
 spoof,huijata
 spurious,väärä
 stagnant,seisova;paikallaanoleva
+statute,säädös
 steep,jyrkkä
+stratification,kerrostuma
+strive,pyrkiä
 subjugate,kukistaa
 suggestible,herkkä
 sumptuous,ylellinen
@@ -219,8 +256,10 @@ susceptible,herkkä
 sweepstake,vedonlyönti
 syndicate,asiantuntijaryhmä
 tedious,tylsä
+thesis,tutkielma
 tinker,näpertely
 trajectory,liikerata
+tranche,siivu
 tranquillity,hiljainen
 trellis,säleikkö
 tuition,lukukausimaksu
@@ -230,6 +269,7 @@ tycoon,pohatta
 ubiquitous,kaikkialla läsnäoleva
 unadulterated,muuntelematon
 unwieldy, kankea
+upend,kääntää nurin
 upheaval,mullistus
 vehemently,kiivaasti
 vendor,myyjä
@@ -244,25 +284,10 @@ voluntary,vapaaehtoinen
 weave,sidos
 zeal,into
 zealous,innokas
-inclination,kaltevuus
-respectively,vastaavasti
-rigorous,tiukka
-explicit,täsmällinen
-statute,säädös
-poignancy,katkeruus
-tranche,siivu
-aptitude,soveltuvuus
-broker,välittäjä
-palpable,selvä
-sordid,ikävä
-mortgage,kiinnitys
-bonanza,kultakaivos
-camaraderie,toveruus
-pernicious,turmiollinen
-recidivism,uusintarikollisuus
-inmate,vanki
-premonition,aavistus
-lucrative,tuottoisa
-ratchet,räikkä
-imminent,lähestyvä
-cesspit,likakaivo
+penchant,mieltymys
+profanity,rienaus
+contingency,ennakoimattomia
+readily,helposti
+flaunt,pöyhistellä
+suvvy,fiksu
+duly,asianmukaisesti
