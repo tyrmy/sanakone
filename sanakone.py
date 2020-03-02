@@ -28,10 +28,12 @@ Käyttö:
 -r	satunnainen kysely
 -k	ohjelman sisäinen kysely
 -s	tulosta sanasto terminaaliin
+-a      lisää sana tietokantaan
 """
 # Tulosta ohjeet jossei parametreja
 if ( len(sys.argv) == 1 ):
-	print sys.argv[0]
+	print('Parametri puuttuu!')
+	#print sys.argv[0]
 	print info
 	exit()
 
@@ -51,7 +53,7 @@ def dict_from_csv(): # luo dictionary .csv tiedoston pohjalta
 		next(csv_reader)
 		for row in csv_reader:
 			dictionary[row[0]] = row[1]
-	print("Nykyinen tietokannan koko = " + str(dict_size()) + " sanaa.")
+	#print("Nykyinen tietokannan koko = " + str(dict_size()) + " sanaa.")
 
 '''	Kysyy satunnaisen sanan dictionaryn sisältä
 	Voi ottaa vastaan joko:
@@ -136,8 +138,8 @@ def add_word(word):
 		print('Sana ei kelpaa tai se on jo tietokannassa...')
 
 # Tulosta ohje jos enemmän kuin yksi argumentti
-if ( len(sys.argv) > 2 ):
-	print('Anna vain yksi argumentti')
+if ( len(sys.argv) > 3 ):
+        print("Liikaa argumentteja! Suljetaan...")
 	print(info)
 	exit()
 else:
@@ -151,6 +153,14 @@ else:
 		exit()
 	elif ( sys.argv[1] == '-k' ):
 		ask_randoms(20)		
+		exit()
+
+        elif ( sys.argv[1] == '-a' ):
+                if ( len(sys.argv) == 3 ):
+                    add_word(sys.argv[2])
+                    print("Tietokannan koko:" + str(dict_size()))
+                else:
+                    print("Argumenttivirhe! Anna uusi sana parametrin jälkeen.")
 		exit()
 
 	else:
